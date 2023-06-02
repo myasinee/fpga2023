@@ -1,0 +1,45 @@
+Day 1: 
+1. Recap of Digital circuits 
+2. What are FPGAs? Why are they used? Relevane to military applications
+3. FPGAs vs CPUs vs GPUs
+4. Design entry into FPGA
+	1. Hardware Description Languages
+	2. High-level Synthesis
+5. Theory/Simulation: Verilog syntax basics 
+	1. Basic combinational circuits on FPGA (mux, full adder, ripple carry adder)
+	2. Basic sequential circuits on FPGA (register, register with load, up/down counter)
+	3. Hierarchical Design (Module instantiation) 
+	4. Evaluation 1: Designing a 4x1 mux using multiple 2x1 muxes 
+6. Practical: 
+	1. Introduction of Nexys 3 FPGA board and Adept 
+	2. Xilinx ISE 101 
+	3. Generating bitstream and "burning"/loading to FPGA
+	4. Using LEDs and seven segment displays 
+	5. Using on-board clock vs single-stepping via switches
+	6. Optional Activity for users already familiar with FPGA: Design a 4-bit or an 8-bit barrel shifter using muxes
+7. High level discussion on debugging designs and FPGA bitstream reverse engnineering 
+
+Order of activities for Day 1: 
+    0. Introduction and Overview 
+	1. FPGA 101 activity to get a feel of actual software & hardware 
+		1. Idea: Increase curiosity and let participants ask natural and logical questions 
+		2. Instructor then answers the question so participants can link theory and practice 
+	2. Combinational circuit modelling (theory followed by lab)
+		1. muxes 
+		2. half-adder
+		3. full-adder built using half-adders 
+	3. Sequential circuit modelling
+		1. flip-flops/registers 
+		2. counterrs 
+		
+Day 2: 
+	1. Recap of Day 1
+	2. Introduction to finite state machines 
+	3. Modeling a traffic light intersection using FSMs
+	4. Introduction to VGA operation {see a short video}
+	5. Load a working VGA example
+	6. Identify core "pieces of code"
+	7. Modify the code to change size of objects 
+	8. Learn VGA animation 
+	
+	9. Certificate distribution
