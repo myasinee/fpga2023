@@ -1,0 +1,10 @@
+
+
+ChipVerify excellent resource
+https://www.chipverify.com/verilog/verilog-tutorial
+
+Two hour tutorial by Renzyme
+https://www.youtube.com/watch?v=nblGw37Fv8A&ab_channel=RenzymEducation
+
+Defense FPGA Evolution 
+https://slideplayer.com/slide/8092498/
